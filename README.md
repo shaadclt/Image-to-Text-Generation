@@ -11,7 +11,7 @@ This repository contains a Jupyter Notebook that demonstrates how to use a pre-t
 1. Clone the repository:
 
 ```Bash
-git clone https://github.com/your-username/image-captioning-jupyter-notebook.git
+git clone https://github.com/shaadclt/Image-to-Text-Generation.git
 ```
 
 2. Open the Jupyter Notebook:
@@ -20,7 +20,7 @@ git clone https://github.com/your-username/image-captioning-jupyter-notebook.git
 image-to-text.ipynb
 ```
 
-3. Replace /content/air.jpg:
+3. Replace '/content/air.jpg' with image path:
 
  - Update the list of image paths in the predict_step function to point to your own images.
  - Note: This code assumes you have access to a GPU or a CUDA-enabled environment. If not, you may need to adjust the device settings.
