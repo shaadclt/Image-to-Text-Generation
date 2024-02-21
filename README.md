@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook that demonstrates how to use a pre-trained Vision Encoder-Decoder model for image captioning. 
 
-- Load a pre-trained model (nlpconnect/vit-gpt2-image-captioning)
+- Load a pre-trained model (**nlpconnect/vit-gpt2-image-captioning**)
 - Prepare images for the model
 - Generate captions using beam search
  - Display the original images alongside the predicted captions
